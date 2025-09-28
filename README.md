@@ -1,3 +1,29 @@
+Each record has an associated loan approval status (0: Not Approved, 1: Approved) which is the target variable for prediction.
+
+## 🛠 Key Techniques Implemented
+
+1. **Data Exploration & Visualization**
+
+   - Distribution analysis of loan approvals
+   - Statistical summary of numerical features
+   - Visualization of feature distributions by loan approval status
+   - Correlation analysis between applicant features
+
+2. **Data Preprocessing**
+
+   - Handling missing values for numerical and categorical features
+   - Encoding categorical variables using one-hot encoding
+   - Scaling numerical features for consistent model input
+   - Data cleaning to ensure quality inputs for modeling
+
+3. **Feature Engineering**
+
+   - Creation of new features such as income-to-loan ratio
+   - Transformation of skewed features for better model performance
+   - Feature selection to identify the most relevant predictors
+
+4. **Model Training & Evaluation**
+   
    - Logistic Regression
    - Decision Tree Classifier
    - Random Forest Classifier
