@@ -1,3 +1,24 @@
+# 🏦 Bank Loan Approval
+
+## 📌 Project Overview
+This project demonstrates how to **predict loan approval** based on various applicant features with a focus on **data preprocessing**, **feature engineering**, and **model evaluation**.
+
+- 🧹 **Data Preprocessing** – techniques for handling missing values and encoding categorical variables
+- 🔍 **Feature Engineering** – creation of new features to improve model performance
+- 🤖 **Machine Learning** – trained classification models to predict loan approval with comprehensive evaluation metrics
+- 🎯 **Goal** – develop an efficient and accurate loan approval prediction model while understanding the impact of preprocessing and feature engineering
+
+## 📊 Dataset
+
+The Bank Loan Approval dataset contains applicant information with the following key features:
+- Gender
+- Marital Status
+- Education Level
+- Applicant and Co-applicant Income
+- Loan Amount and Loan Term
+- Credit History
+- Property Area
+
 Each record has an associated loan approval status (0: Not Approved, 1: Approved) which is the target variable for prediction.
 
 ## 🛠 Key Techniques Implemented
