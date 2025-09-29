@@ -29,6 +29,10 @@ Each record has an associated loan approval status (0: Not Approved, 1: Approved
 
 1. **Data Preprocessing**
 
+[![Bank Loan Approval: Preprocessing](https://img.youtube.com/vi/Q9LIZ3uM298/0.jpg)](https://youtu.be/Q9LIZ3uM298)
+
+[Bank Loan Approval: Preprocessing](https://youtu.be/Q9LIZ3uM298)  
+
    - Handling missing values for numerical and categorical features
    - Encoding categorical variables using one-hot encoding
    - Scaling numerical features for consistent model input
@@ -36,12 +40,20 @@ Each record has an associated loan approval status (0: Not Approved, 1: Approved
 
 2. **Data Exploration & Visualization**
 
+[![Bank Loan Approval: Data Exploration & Visualization](https://img.youtube.com/vi/9GLBDpNkpVI/0.jpg)](https://youtu.be/9GLBDpNkpVI)
+
+[Bank Loan Approval: Data Exploration & Visualization](https://youtu.be/9GLBDpNkpVI)  
+
    - Distribution analysis of loan approvals
    - Statistical summary of numerical features
    - Visualization of feature distributions by loan approval status
    - Correlation analysis between applicant features
 
 3. **Feature Engineering**
+
+[![Bank Loan Approval: Feature Engineering](https://img.youtube.com/vi/M74m-THUv8g/0.jpg)](https://youtu.be/M74m-THUv8g)
+
+[Bank Loan Approval: Feature Engineering](https://youtu.be/M74m-THUv8g)  
 
    - Creation of new features such as income-to-loan ratio
    - Transformation of skewed features for better model performance
