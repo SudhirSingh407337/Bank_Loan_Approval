@@ -10,6 +10,10 @@ This project demonstrates how to **predict loan approval** based on various appl
 
 ## 📊 Dataset
 
+[![Bank Loan Approval: Dataset](https://img.youtube.com/vi/n6Kdhp0xm2s/0.jpg)](https://youtu.be/n6Kdhp0xm2s)
+
+[Bank Loan Approval: Dataset](https://youtu.be/n6Kdhp0xm2s)  
+
 The Bank Loan Approval dataset contains applicant information with the following key features:
 - Gender
 - Marital Status
@@ -23,19 +27,19 @@ Each record has an associated loan approval status (0: Not Approved, 1: Approved
 
 ## 🛠 Key Techniques Implemented
 
-1. **Data Exploration & Visualization**
-
-   - Distribution analysis of loan approvals
-   - Statistical summary of numerical features
-   - Visualization of feature distributions by loan approval status
-   - Correlation analysis between applicant features
-
-2. **Data Preprocessing**
+1. **Data Preprocessing**
 
    - Handling missing values for numerical and categorical features
    - Encoding categorical variables using one-hot encoding
    - Scaling numerical features for consistent model input
    - Data cleaning to ensure quality inputs for modeling
+
+2. **Data Exploration & Visualization**
+
+   - Distribution analysis of loan approvals
+   - Statistical summary of numerical features
+   - Visualization of feature distributions by loan approval status
+   - Correlation analysis between applicant features
 
 3. **Feature Engineering**
 
