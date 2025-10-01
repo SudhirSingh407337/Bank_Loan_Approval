@@ -60,6 +60,10 @@ Each record has an associated loan approval status (0: Not Approved, 1: Approved
    - Feature selection to identify the most relevant predictors
 
 4. **Model Training & Evaluation**
+
+[![Bank Loan Approval: Model Training & Evaluation](https://img.youtube.com/vi/gVZ7JyDt81Y/0.jpg)](https://youtu.be/gVZ7JyDt81Y)
+
+[Bank Loan Approval: Model Training & Evaluation](https://youtu.be/gVZ7JyDt81Y) 
    
    - Logistic Regression
    - Decision Tree Classifier
